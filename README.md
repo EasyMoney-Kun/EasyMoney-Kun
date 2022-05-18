@@ -7,6 +7,6 @@
 <li>👨‍💻数据库 MySQL</li>
 <li>📝框架 SpringBoot，Django</li>
 <li>💬设计 PhotoShop，Audition，Premiere，DaVind</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+<li>📙 以上均不精通</li>
+<li>🎉 本人擅长windows系统电脑的打开与关闭</li>
 </ul>
