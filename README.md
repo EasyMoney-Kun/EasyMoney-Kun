@@ -26,7 +26,7 @@
 <br>
  
 ## :pencil2:最近在学习
-<table align="center">
+<table>
 <tr>
 <td valign="top">  
 
