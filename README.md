@@ -15,3 +15,9 @@
  
 **轻轻点击，打开新世界的大门！**
 </summary>
+ 
+<h1 align="center">
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome%EF%BC%81;%E5%9D%A4%E5%9D%A4%E7%A5%9D%E4%BD%A0%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83%EF%BC%81%EF%BC%81%EF%BC%81&center=true&size=27">
+  </a>
+</h1>
