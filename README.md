@@ -21,3 +21,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome%EF%BC%81;%E5%9D%A4%E5%9D%A4%E7%A5%9D%E4%BD%A0%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83%EF%BC%81%EF%BC%81%EF%BC%81&center=true&size=27">
   </a>
 </h1>
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<br>
+ <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
