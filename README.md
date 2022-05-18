@@ -8,7 +8,7 @@
 <li>📝框架 SpringBoot，Django</li>
 <li>💬设计 PhotoShop，Audition，Premiere，DaVind</li>
 <li>📙 以上均不精通</li>
-<li>🎉 本人擅长windows系统电脑的打开与关闭</li>
+<li>🎉 本人擅长搭载windows系统电脑的打开与关闭</li>
 </ul>
 <details>
 <summary>
