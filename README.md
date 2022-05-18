@@ -2,7 +2,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ 个人技术栈</h2>
 <ul>
-<li>🔭后端 C，C++,Java，Python</li>
+<li>🔭后端 C，C++，Java，Python</li>
 <li>🧐前端 HTML，CSS，JavaScript </li>
 <li>👨‍💻数据库 MySQL</li>
 <li>📝框架 SpringBoot，Django</li>
@@ -22,10 +22,17 @@
   </a>
 </h1>
 <!-- 敲代码的图片 -->
-<div align="right" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<div>
+<img align="right" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" />
+</div>
+<div>
 
- 
-## :pencil2: 最近在学习
+## 💪 目标 
+<p>✍️&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
+<p>&emsp;&emsp;种一棵树最好的时间是十年前，其次是现在。我相信我能够在当下最美好的时间以自己的方式去创造不一样的东西。</p>
+
+## :pencil: 在学习
 <table>
 <tr>
 <td valign="top">  
@@ -50,4 +57,7 @@
   
 </td> 
 </tr>
-</table>kkk
+</table>
+</div>
+## 🚀 我的Github
+![Metrics](https://metrics.lecoq.io/EasyMoney-Kun?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
