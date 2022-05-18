@@ -24,4 +24,29 @@
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
+## :pencil2:最近在学习
+<table align="center">
+<tr>
+<td valign="top">  
 
+###  🔨编程语言 
+  
+<!-- START_SECTION:blog -->
+* <a href='https://github.com/EasyMoney-Kun/Cpp'><image src='https://img.shields.io/badge/-c++-blue?style=flat-square&logo=c&logoColor=white&'></a>
+* <a href='https://github.com/EasyMoney-Kun/Cpp'><image src='https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white'></a>
+
+<!-- END_SECTION:blog -->
+  
+</td>
+    
+<td valign="top">
+  
+### 🤾‍♂️编程基础
+
+<!-- START_SECTION:douban -->
+* <a href='https://github.com/EasyMoney-Kun/Data-struct'><image src='https://img.shields.io/badge/数据结构-pink.svg?style=flat-square&logo=Instructables&logoColor=red'></a>
+<!-- END_SECTION:douban -->
+  
+</td> 
+</tr>
+</table>
