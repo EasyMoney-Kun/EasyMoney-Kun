@@ -28,7 +28,7 @@
 <div>
 
 ## 💪 目标 
-<p>✍️我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>✍️&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;种一棵树最好的时间是十年前，其次是现在。我相信我能够在当下最美好的时间以自己的方式去创造不一样的东西。</p>
 
