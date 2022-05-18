@@ -10,3 +10,5 @@
 <li>📙 以上均不精通</li>
 <li>🎉 本人擅长windows系统电脑的打开与关闭</li>
 </ul>
+<details>
+<summary>轻点，打开新世界的大门！</summary>
