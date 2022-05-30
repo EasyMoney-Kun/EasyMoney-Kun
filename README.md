@@ -1,8 +1,7 @@
 <h1 align="center">👋 欢迎访问我的GitHub</h1>
-
-<div align="right">
+<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ 个人技术栈</h2>
-<img align="left" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 <ul>
 <li>🔭后端 C，C++，Java，Python</li>
 <li>🧐前端 HTML，CSS，JavaScript </li>
@@ -12,7 +11,6 @@
 <li>📙 以上均不精通</li>
 <li>🎉 本人擅长搭载windows系统电脑的打开与关闭</li>
 </ul>
-</div>
 <details>
 <summary>
  
