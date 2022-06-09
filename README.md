@@ -1,5 +1,5 @@
 <h1 align="center">👋 欢迎访问我的GitHub</h1>
-<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ 个人技术栈</h2>
 
 <ul>
